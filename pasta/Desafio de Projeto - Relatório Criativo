@@ -1,0 +1,13 @@
+# Desafio do Bootcamp Suzano
+
+## Descrição
+Este repositório contém a solução para o desafio proposto pelo Bootcamp Suzano. O objetivo do desafio é gerar um relatorio criativo no Power BI.
+
+## Estrutura do Repositório
+- `docs/`: Documentação do projeto.
+- `data/`: Conjunto de dados utilizados no projeto.
+
+## Tecnologias Utilizadas
+- [Ferramentas]: Power BI
+
+Sinta-se à vontade para ajustar conforme necessário para se adequar ao seu projeto específico. Se precisar de mais alguma coisa, é só avisar!
